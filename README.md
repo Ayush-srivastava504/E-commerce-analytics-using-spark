@@ -40,11 +40,11 @@ CSV → Databricks (Raw) → PySpark → Delta Lake (Gold) → Analytics
 ## Visualizations & Insights
 
 ### Top Cities by Revenue
-![Top Cities by Revenue](visualization/top cities by revenue.png)
+![Top Cities by Revenue](visualization/Top%20Cities%20by%20Revenue.png)
 
 ### Payment Method Economics
-![Payment Method Economics](visualization/payment method economics.png)
+![Payment Method Economics](visualization/Payment%20Method%20Economics.png)
 
 ### Discount Effectiveness
-![Discount Effectiveness](visualization/discounteffectiveness.png)
+![Discount Effectiveness](visualization/Discount%20Effectiveness.png)
 
