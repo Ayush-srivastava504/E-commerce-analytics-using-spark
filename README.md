@@ -37,16 +37,14 @@ CSV → Databricks (Raw) → PySpark → Delta Lake (Gold) → Analytics
 
 - Payment Method Analysis – compares order value and volume
 
-## 📊 Visualizations & Insights
-
-## 📊 Visualizations & Insights
+## Visualizations & Insights
 
 ### Top Cities by Revenue
-![Top Cities by Revenue](visualizations/top_cities_by_revenue.png)
+![Top Cities by Revenue](visualization/top_cities_by_revenue.png)
 
 ### Payment Method Economics
-![Payment Method Economics](visualizations/payment_method_economics.png)
+![Payment Method Economics](visualization/payment_method_economics.png)
 
 ### Discount Effectiveness
-![Discount Effectiveness](visualizations/discount_effectiveness.png)
+![Discount Effectiveness](visualization/discount_effectiveness.png)
 
